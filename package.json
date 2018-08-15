@@ -39,7 +39,7 @@
     "dist"
   ],
   "dependencies": {
-    "@types/node": "^8.0.0",
+    "@types/node": "^10.7.1",
     "tslib": "^1.6.0"
   },
   "devDependencies": {
